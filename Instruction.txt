@@ -1,0 +1,6 @@
+Make all your team members as contributors
+Make this repo as public
+Share your code and make everyone to contribute the code. 
+I'll do the code evolution based on your commits and codes in this repo.
+To get full mark, everyone need to be contribute equally.
+With respect your project completion and your contribution you'll receive your score.
